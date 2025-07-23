@@ -1,0 +1,28 @@
+.open-Sans {
+  font-family: "Open Sans", "Arial", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  font-style: italic;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.center {
+  text-align: center; 
+  text-transform: uppercase;
+}
+
+.wavy {
+  text-decoration: overline wavy;
+  color: rgb(76, 5, 68);
+  word-spacing: 30px;
+  text-shadow: 1px 0.7px 1.6px rgb(76, 5, 68);
+}
+
+.doubleline {
+  text-decoration: underline double;
+  letter-spacing: 5px;
+}
