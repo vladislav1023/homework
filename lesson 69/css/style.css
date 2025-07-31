@@ -1,0 +1,27 @@
+body {
+    background: #1d1c1c;
+}
+
+p {
+    color: #ffffff;
+}
+
+.container {
+    position: fixed;
+    bottom: 100px;
+    left: 50%;  
+    right: 50px;
+    height: 100px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+.circle {
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+}
